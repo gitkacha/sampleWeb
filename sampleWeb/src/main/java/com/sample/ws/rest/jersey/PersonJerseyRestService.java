@@ -1,8 +1,5 @@
 package com.sample.ws.rest.jersey;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
